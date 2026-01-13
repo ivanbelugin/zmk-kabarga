@@ -5,7 +5,7 @@ manifest:
     - name: sqdbruh
       url-base: https://github.com/sqdbruh
   projects:
-    - name: zmk
+    - name: aroum
       remote: sqdbruh
       revision: main
       import: app/west.yml
