@@ -1,12 +1,10 @@
 manifest:
-  remotes:
+  remotes:    
     - name: aroum
       url-base: https://github.com/aroum
-    - name: sqdbruh
-      url-base: https://github.com/sqdbruh
   projects:
     - name: zmk
-      remote: sqdbruh
+      remote: aroum
       revision: main
       import: app/west.yml
   self:
