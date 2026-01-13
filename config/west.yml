@@ -3,7 +3,7 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/aroum
     - name: sqdbruh
-      url-base: https://github.com/aroum
+      url-base: https://github.com/sqdbruh
   projects:
     - name: zmk
       remote: sqdbruh
